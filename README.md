@@ -1,5 +1,7 @@
 # wasm_lindera_example
-rust + webassembly + next.js + typescriptで形態素解析するサンプル
+rust + lindera + webassembly + next.js + typescriptで形態素解析するサンプル
+
+![img](https://github.com/vaaaaanquish/wasm_lindera_example/blob/main/img/sample.gif?raw=true)
 
 # Usage
 
@@ -22,6 +24,6 @@ npm run start
 
 # Thanks
 
+- https://github.com/lindera-morphology/lindera.git
 - https://github.com/rustwasm/create-wasm-app/
-
-et al.
+ et al.
