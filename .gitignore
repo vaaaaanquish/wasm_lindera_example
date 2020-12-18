@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Next
+next-env.d.ts
+package-lock.json
+
+# Rust
+src/tokenize-text/target
+src/tokenize-text/Cargo.lock
